@@ -1,0 +1,14 @@
+@import './variables.scss';
+
+.header--background {
+  height: 40vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(../assets/field.jpg) center center no-repeat;
+  background-size: cover;
+  color: antiquewhite;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+}

@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=Lato|Montserrat&display=swap");
+.header--background {
+  height: 40vh;
+  width: 100vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background: url(../assets/field.jpg) center center no-repeat;
+  background-size: cover;
+  color: antiquewhite;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+}
+/*# sourceMappingURL=header.css.map */

@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css?family=Lato|Montserrat&display=swap");
+.cow--section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.cow--section__divider {
+  background-color: darkolivegreen;
+  height: 1rem;
+  width: 100vw;
+}
+
+.cow--section__background {
+  height: 40vh;
+  width: 100vw;
+  background: url(../assets/cows.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.cow--section__main {
+  margin: 0 !important;
+  padding: 2rem;
+  background-color: antiquewhite;
+  color: darkolivegreen;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+}
+
+.cow--section__list {
+  text-align: left;
+}
+
+.pig--section__background {
+  height: 40vh;
+  width: 100vw;
+  background: url(../assets/pig.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.pig--section__indented-list {
+  margin: 0 0 1rem 2rem;
+  list-style-type: circle;
+  text-align: left;
+}
+
+.egg--section__background {
+  height: 40vh;
+  width: 100vw;
+  background: url(../assets/rooster.jpg) center center no-repeat;
+  background-size: cover;
+}
+/*# sourceMappingURL=cow.css.map */

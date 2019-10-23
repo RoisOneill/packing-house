@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Lato|Montserrat&display=swap");
+.main--section {
+  background-color: blanchedalmond;
+  color: darkolivegreen;
+  margin: 0 !important;
+  padding: 3rem 2rem;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+}
+/*# sourceMappingURL=main.css.map */

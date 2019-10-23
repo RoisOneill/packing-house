@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,OAAO,CAAC,2EAAI",
+    "sources": [
+        "eggs.scss",
+        "variables.scss"
+    ],
+    "names": [],
+    "file": "eggs.css"
+}
